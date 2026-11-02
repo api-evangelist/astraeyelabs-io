@@ -64,23 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-astraeyelabs-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+AstraEye Labs computes standardized market analyses for crypto and U.S. equities from licensed data, then uses AI to interpret the results. Informational research only, and not investment, financial, legal, or tax advice.
 
-**Areas:** Company
+**Areas:** AI · Finance · Crypto · Stocks · Research
 
 ## AstraEye Labs on APIs.io
 
 Everything profiled for AstraEye Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/astraeyelabs-io/](https://apis.io/providers/astraeyelabs-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Research API](https://apis.io/apis/astraeyelabs-io/research-api/) — Research API for AI Assistants – read your own research projects and report summaries.
+- [AstraEye Labs API](https://apis.io/apis/astraeyelabs-io/astraeyelabs-io-api/) — AstraEye Labs API as documented publicly: 24 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1ResearchAnalysesResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-analyses-response/)
+- [GetApiV1ResearchMarketSlicesResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-market-slices-response/)
+- [GetApiV1ResearchProjectsResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-projects-response/)
+- [GetApiV1ResearchReportsIdResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-reports-id-response/)
+- [GetApiV1ResearchTemplatesIdResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-templates-id-response/)
+- [GetApiV1ResearchTemplatesResponse](https://apis.io/schemas/astraeyelabs-io/astraeyelabs-io-get-api-v1-research-templates-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Astraeyelabs Io Context](https://apis.io/jsonld/astraeyelabs-io/astraeyelabs-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AstraEye Labs API Rules](https://apis.io/rules/astraeyelabs-io/astraeyelabs-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Astraeyelabs Io Authentication](https://apis.io/security/astraeyelabs-io/astraeyelabs-io-authentication/)
+- [Astraeyelabs Io Domain Security](https://apis.io/security/astraeyelabs-io/astraeyelabs-io-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Astraeyelabs Io Scopes](https://apis.io/scopes/astraeyelabs-io/astraeyelabs-io-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Astraeyelabs Io Plans Pricing](https://apis.io/plans/astraeyelabs-io/astraeyelabs-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Astraeyelabs Io Rate Limits](https://apis.io/rate-limits/astraeyelabs-io/astraeyelabs-io-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://astraeyelabs.io/)
+- [Documentation](https://astraeyelabs.io/library)
+- [Getting started](https://astraeyelabs.io/subscribe)
+- [Pricing](https://astraeyelabs.io/subscribe)
+- [Sign up](https://astraeyelabs.io/subscribe)
+- [Terms of service](https://astraeyelabs.io/terms)
+- [Privacy policy](https://astraeyelabs.io/privacy)
+- [GitHub](https://github.com/alexeykovalyov)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/astraeyelabs-io/](https://apis.io/providers/astraeyelabs-io/).
+**Kin Score 51.6** — developing · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 40.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/astraeyelabs-io/](https://apis.io/providers/astraeyelabs-io/).
 
 ## How this profile is made
 
